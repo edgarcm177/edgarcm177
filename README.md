@@ -5,7 +5,7 @@ I’m a Computer Science major at Georgia Tech with a passion for software engin
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 - **Languages:** Python, Java, C, JavaScript, SQL
 - **Frameworks & Libraries:** React, Django, Tailwind CSS, Leaflet, OpenCV, MediaPipe, Pandas
 - **Developer Tools:** Git, Figma, Agile/Jira
