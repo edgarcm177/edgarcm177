@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Edgar Cruz-Martinez 👋
+**Computer Science @ Georgia Tech** | Systems & Architecture • Intelligence
 
-<!--
-**edgarcm177/edgarcm177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate Computer Science student at Georgia Tech concentrating in Systems & Architecture and Intelligence. I focus on building high-performance applications, data-driven simulation tools, and computer vision systems.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** Python, Java, C, JavaScript, SQL
+- **Frameworks & Libraries:** React, Django, Tailwind CSS, Leaflet, OpenCV, MediaPipe, Pandas
+- **Developer Tools:** Git, Figma, Agile/Jira
+
+---
+
+### Featured Projects
+
+- **[Echo Sign](https://github.com/Ecast-mor/TechHack)**  
+  Real-time multithreaded American Sign Language recognition engine running at 60 FPS using MediaPipe and OpenCV.
+
+- **[Ripplect](https://github.com/edgarcm177/Ripplect)**  
+  Geospatial crisis simulation dashboard featuring real-time Leaflet data visualization and misfit aid disparity metrics.
+
+- **[Portfolio Website](https://your-username.github.io)**  
+  Personal developer portfolio showcasing full-stack projects, research work, and engineering demos.
+
+---
+
+### Connect With Me
+- **LinkedIn:** [https://linkedin.com/](https://www.linkedin.com/in/edgar-cruz-martinez/)
+- **Email:** edgarcm177@gmail.com
