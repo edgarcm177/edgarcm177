@@ -1,7 +1,7 @@
 # Hi, I'm Edgar Cruz-Martinez 👋
 **Computer Science @ Georgia Tech** | Systems & Architecture • Intelligence
 
-I am an undergraduate Computer Science student at Georgia Tech concentrating in Systems & Architecture and Intelligence. I focus on building high-performance applications, data-driven simulation tools, and computer vision systems.  
+I’m a Computer Science major at Georgia Tech with a passion for software engineering, computer vision, and building interactive software. I spend most of my time writing code for research labs, teaming up with friends at hackathons, and exploring how low-level systems interact with practical, real-world tools.
 
 ---
 
