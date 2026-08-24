@@ -20,7 +20,7 @@ I’m a Computer Science major at Georgia Tech with a passion for software engin
 - **[Ripplect](https://github.com/edgarcm177/Ripplect)**  
   Geospatial crisis simulation dashboard featuring real-time Leaflet data visualization and misfit aid disparity metrics.
 
-- **[Portfolio Website](https://github.com/edgarcm177/Portfolio)**  
+- **[Portfolio Website](https://edgarcm177.github.io/Portfolio/)**  
   Personal developer portfolio showcasing full-stack projects, research work, and engineering demos.
 
 ---
